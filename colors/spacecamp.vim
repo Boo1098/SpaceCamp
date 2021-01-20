@@ -42,8 +42,8 @@ endfun
 " ==========================
 " Color Variables
 " ==========================
-let s:spaceBlack = {'gui': '#121212', 'cterm256': '233'}
-let s:spaceBlack2 = {'gui': '#262626', 'cterm256': '235'}
+let s:spaceBlack = {'gui': '#0a0015', 'cterm256': '233'}
+let s:spaceBlack2 = {'gui': '#0a0015', 'cterm256': '233'}
 let s:spaceGray1 = {'gui': '#3E3D32', 'cterm256': '237'}
 let s:spaceGray2 = {'gui': '#49483E', 'cterm256': '239'}
 let s:spaceGray3 = {'gui': '#6B6B6B', 'cterm256': '242'}
